@@ -1,17 +1,39 @@
-Data Set
+<p align="center">
+  <img src="assets/banner.png" width="100%" />
+</p>
 
-to access dataset use the below link 
+# Material Classification & Smart Recommendation System
 
-https://drive.google.com/drive/folders/1lb4HGkv4PZ6ouo5ScqGYJZReW2If_6vB?usp=drive_link    
+A lightweight AI system that classifies construction materials (bricks & concrete blocks) using **MobileNetV2** and provides **sustainability-focused recommendations** via the **Groq LLaMA-3.3 API**.  
+Deployed as an interactive **Streamlit** web application.
 
+---
 
-model for classification  
+## 🚀 Features
+- 🔍 **Material Classification** (6 classes – Brick & Block Grades 1–3)  
+- 🌿 **AI Recommendations** for reuse, sustainability, and improvement  
+- ⚡ **MobileNetV2** for fast prediction  
+- 🌐 **Streamlit Web App** for easy interaction  
 
-use the link to download the cnn model movilenet v2 for classification of the bricks 
+---
 
-https://drive.google.com/file/d/1-SqyzeILO5RpQRsTpejqtnXO_0OBG1-3/view?usp=drive_link
+## 🏗️ Architecture
+<p align="center">
+  <img src="Architecture.png" width="75%" />
+</p>
 
-          or
+---
+
+## 📥 Downloads
+
+**Dataset:**  
+https://drive.google.com/drive/folders/1lb4HGkv4PZ6ouo5ScqGYJZReW2If_6vB
+
+**Trained Model (MobileNetV2):**  
+https://drive.google.com/file/d/1-SqyzeILO5RpQRsTpejqtnXO_0OBG1-3/view
+
+Save model as:
+
           
 Run the model training code to generate the model
 
